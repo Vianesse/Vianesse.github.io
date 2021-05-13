@@ -11,4 +11,4 @@ Please, feel free to take a look at my two showcase videos and ask for the code 
 ![](https://github.com/Vianesse/Showcase-ERS/blob/main/Showcase%20ERS%20video%20with%20Back%20End.gif)
 
 **Project Overview**
-![](https://github.com/Vianesse/Showcase-ERS)
+![](https://github.com/Vianesse/Showcase-ERS/blob/main/README.md)
