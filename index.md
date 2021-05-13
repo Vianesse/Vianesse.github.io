@@ -1,4 +1,4 @@
-**Profile:** To view my professional profile click [here](https://github.com/Vianesse/Vianesse.github.io/blob/main/LinkedIn_Profile.pdf)
+**Profile:** Click [here](https://github.com/Vianesse/Vianesse.github.io/blob/main/LinkedIn_Profile.pdf)
 
 Please, feel free to take a look at my two showcase videos and ask for the code behind it.
 
